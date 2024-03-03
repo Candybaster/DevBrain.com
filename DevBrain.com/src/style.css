@@ -549,7 +549,7 @@ main {
 
 .front {
 	transform: translateZ(150px);
-  background-image: url("/img/stable-dif/img1.jpg");
+  background-image: url("img/stable-dif/img1.jpg");
   background-size: cover;
   width: 100%;
   height: 100%;
@@ -558,14 +558,14 @@ main {
 
 .back {
   transform: rotateY(180deg) translateZ(150px);
-  background-image: url("/img/stable-dif/img1.jpg");
+  background-image: url("img/stable-dif/img1.jpg");
   background-size: cover;
   width: 100%;
   height: 100%;
 }
 
 .right {
-  background-image: url("/img/stable-dif/img1.jpg");
+  background-image: url("img/stable-dif/img1.jpg");
   background-size: cover;
   width: 100%;
   height: 100%;
@@ -574,7 +574,7 @@ main {
 
 .left {
   transform: rotateY(-90deg) translateZ(150px);
-  background-image: url("/img/stable-dif/img1.jpg");
+  background-image: url("img/stable-dif/img1.jpg");
   background-size: cover;
   width: 100%;
   height: 100%;
@@ -582,7 +582,7 @@ main {
 
 .top {
   transform: rotateX(90deg) translateZ(150px);
-  background-image: url("/img/stable-dif/img1.jpg");
+  background-image: url("img/stable-dif/img1.jpg");
   background-size: cover;
   width: 100%;
   height: 100%;
@@ -590,7 +590,7 @@ main {
 
 .bottom {
   transform: rotateX(-90deg) translateZ(150px);
-  background-image: url("/img/stable-dif/img1.jpg");
+  background-image: url("img/stable-dif/img1.jpg");
   background-size: cover;
   width: 100%;
   height: 100%;
